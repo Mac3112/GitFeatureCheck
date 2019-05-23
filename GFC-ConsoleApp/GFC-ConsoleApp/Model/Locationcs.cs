@@ -9,5 +9,7 @@ namespace GFC_ConsoleApp.Model
         public int Id { get; set; }
 
         public string LocationName { get; set; }
+
+        public string Latitude { get; set; }
     }
 }
