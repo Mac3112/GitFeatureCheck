@@ -7,5 +7,7 @@ namespace GFC_ConsoleApp.Model
     public class Locationcs
     {
         public int Id { get; set; }
+
+        public string LocationName { get; set; }
     }
 }
