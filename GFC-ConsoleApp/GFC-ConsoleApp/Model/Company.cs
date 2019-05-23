@@ -4,7 +4,7 @@ using System.Text;
 
 namespace GFC_ConsoleApp.Model
 {
-    class Company
+    public class Company
     {
     }
 }
